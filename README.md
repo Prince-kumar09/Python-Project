@@ -1,4 +1,4 @@
-# Python 🐍
+# Python Project
 
 A collection of my **Python learning, practice programs, and projects**.
 
@@ -21,4 +21,4 @@ Building strong Python fundamentals for **AI/ML Engineering**.
 
 ---
 
-**Learning Python → Building Skills → AI/ML 🚀**
+**Learning Python → Building Skills → AI/ML **
